@@ -1,0 +1,18 @@
+{
+  "moduleUUID": "65cf2efe4101c414d4bfc625",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "version": "0.0.1",
+    "name": "QueryModule1_2",
+    "contextType": "PAGE",
+    "pageId": "Page1",
+    "inputs": {},
+    "jsonPathKeys": [],
+    "isValid": true,
+    "invalids": [],
+    "userPermissions": []
+  },
+  "id": "Page1_QueryModule1_2",
+  "deleted": false,
+  "gitSyncId": "65cf2f454101c414d4bfc62c_65cf2f4c4101c414d4bfc636"
+}
