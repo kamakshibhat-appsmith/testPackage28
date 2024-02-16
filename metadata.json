@@ -5,14 +5,14 @@
       "packageName": "main admin",
       "moduleUUID": "65cf2efe4101c414d4bfc625",
       "moduleName": "QueryModule1",
-      "version": "0.0.1"
+      "version": "0.0.6"
     },
     {
       "packageUUID": "65cf307d4101c414d4bfc63a",
       "packageName": "dev",
       "moduleUUID": "65cf308b4101c414d4bfc63c",
       "moduleName": "QueryModule1",
-      "version": "0.0.1"
+      "version": "0.0.6"
     }
   ],
   "clientSchemaVersion": 1,
